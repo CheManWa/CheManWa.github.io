@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on CMW的博客</title>
+    <link>https://CheManWa.gitee.io/page/</link>
+    <description>Recent content in Pages on CMW的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>@2020ChMW</copyright>
+    
+	<atom:link href="https://CheManWa.gitee.io/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>typography</title>
+      <link>https://CheManWa.gitee.io/typography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://CheManWa.gitee.io/typography/</guid>
+      <description>\已下内容用作翻阅markdown文法,并无实际作用/
+Heading 4  First item Second item   Nested unordered item  Third item Nested ordered item 1 Nested ordered item 2  Heading 5 Where are the quotes!!!
+ Simplify, then add lightness.
+— Colin Chapman
+ Now, time for some links!
+ GoHugo Hugo Themes  Heading 6 Inline code: echo &amp;quot;What is the meaning of life?&amp;quot;. Who knows?
+// Codeblock  var meaningOfLife = 42; console.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://CheManWa.gitee.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://CheManWa.gitee.io/about/</guid>
+      <description>此网页用于个人测试如何建立博客、熟悉Markdown内容，以及提交作业之用途。</description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://CheManWa.gitee.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://CheManWa.gitee.io/search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

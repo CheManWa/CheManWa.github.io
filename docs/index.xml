@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentation on CMW的博客</title>
+    <link>https://CheManWa.gitee.io/docs/</link>
+    <description>Recent content in Documentation on CMW的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>@2020ChMW</copyright>
+    <lastBuildDate>Sat, 12 Sep 2020 23:55:41 +0800</lastBuildDate>
+    
+	<atom:link href="https://CheManWa.gitee.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>目录</title>
+      <link>https://CheManWa.gitee.io/docs/catalog/</link>
+      <pubDate>Sat, 12 Sep 2020 23:55:41 +0800</pubDate>
+      
+      <guid>https://CheManWa.gitee.io/docs/catalog/</guid>
+      <description>[19335229]的软导作业索引页 课后作业  01-第一周作业-查找单词解释 02-第二周作业  实验与实践  01-我的MarkDown博客  </description>
+    </item>
+    
+    <item>
+      <title>数据结构作业2</title>
+      <link>https://CheManWa.gitee.io/docs/homework02/</link>
+      <pubDate>Thu, 10 Sep 2020 23:37:34 +0800</pubDate>
+      
+      <guid>https://CheManWa.gitee.io/docs/homework02/</guid>
+      <description>第二周作业 进制转换  1分12秒 = 72000 毫秒 (7A)13= (101)10 (7A)16= (122)10 (7A)16= (1111010)2= (172)8 (1011011)2= (133)8= (5B)16 (678)10= (1010100110)2= (1246)8 (111)2+ (101)2= (1100)2  解释关键词 Information Information can be thought of as the resolution of uncertainty
+Positional notation Positional notation denotes usually the extension to any base of the Hindu–Arabic numeral system.
+algorithm In mathematics and computer science, an algorithm is a finite sequence of well-defined, computer-implementable instructions, typically to solve a class of problems or to perform a computation.</description>
+    </item>
+    
+    <item>
+      <title>数据结构作业1</title>
+      <link>https://CheManWa.gitee.io/docs/homework01/</link>
+      <pubDate>Thu, 10 Sep 2020 23:14:46 +0800</pubDate>
+      
+      <guid>https://CheManWa.gitee.io/docs/homework01/</guid>
+      <description>第一周作业-查找单词解释 computer A computer is a machine that can be instructed to carry out sequences of arithmetic or logical operations automatically via computer programming.
+Computer science Computer science is the study of computation and information.
+software software, is a collection of data or computer instructions that tell the computer how to work.
+Software engineering Software engineering is the systematic application of engineering approaches to the development of software.
+Alan Mathison Turing Alan Mathison Turing (23 June 1912 – 7 June 1954) was an English mathematician, computer scientist, logician, cryptanalyst, philosopher, and theoretical biologist.</description>
+    </item>
+    
+  </channel>
+</rss>
